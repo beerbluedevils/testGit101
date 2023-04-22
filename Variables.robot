@@ -1,3 +1,3 @@
 ***Variables***
-${addBtn}            id=add
+${addBtn}            id=addButton
 ${username}          id=userName
